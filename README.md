@@ -7,4 +7,11 @@ Sales Person based in Gurgaon, Haryana
 **Sales** @ BirdApps (SEP @019- Present)
 
 Part of the sales team for all things sales
-*Item 8a
+
+-This is my responsibility 1
+
+-This is my responsibility 2
+
+This is my responsibility 3
+
+This is my responsibilty 4
