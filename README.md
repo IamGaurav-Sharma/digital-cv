@@ -8,10 +8,10 @@ SaaS Sales Executive based in Gurgaon,India
 
 Sales lead for Touchless (Touchless enables contacless checkins and F&B at luxury hotels)
 
--responsibility 1
+-selling Touchless services featuring contactless check-ins and digital food ordering
 
--responsibility 2
+-Drive end-to-end execution of sales opportunities including prospecting, presentations, negotiations, deal closure and due-diligence
 
--responsibility 3
+-Collaborate with all stakeholders in the company (engineering, product, design and marketing) to drive significant new business opportunities for BirdApps
 
--responsibilty 4
+
