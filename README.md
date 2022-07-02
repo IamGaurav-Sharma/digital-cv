@@ -6,12 +6,12 @@ Sales Person based in Gurgaon, Haryana
 
 **Sales** @ BirdApps (SEP @019- Present)
 
-Part of the sales team for all things sales
+Sales lead for Touchless (Touchless enables contacless checkins and F&B at luxury hotels)
 
--This is my responsibility 1
+-responsibility 1
 
--This is my responsibility 2
+-responsibility 2
 
-This is my responsibility 3
+responsibility 3
 
-This is my responsibilty 4
+responsibilty 4
