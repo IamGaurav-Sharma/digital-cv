@@ -1,6 +1,6 @@
 ## GOURAV SHARMA
 
-Sales Person based in Gurgaon, Haryana
+SaaS Sales Executive based in Gurgaon, Haryana
 
 #**PROFESSIONAL EXPERIENCE**
 
