@@ -12,6 +12,6 @@ Sales lead for Touchless (Touchless enables contacless checkins and F&B at luxur
 
 -responsibility 2
 
-responsibility 3
+-responsibility 3
 
-responsibilty 4
+-responsibilty 4
